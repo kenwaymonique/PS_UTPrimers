@@ -14,6 +14,8 @@ Já o menu é:
 <br>
 Acessando os links levam até meu LinkedIn, o site no qual o infográfico é postado e meu GitHub.
 
+O site pode ser acessado em: https://menuutprimers.netlify.app/
+
 Espero que tenham gostado! 
 
 
